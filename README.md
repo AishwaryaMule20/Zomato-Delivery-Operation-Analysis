@@ -61,3 +61,11 @@ To develop practical skills in data cleaning, SQL analysis, data visualization, 
 ##  Author
 
 Aishwarya
+
+## 📸 Dashboard Preview
+
+### Overview
+![Overview Dashboard](Overview.png)
+
+### Factors & Insights
+![Factors & Insights Dashboard](Factors_and_Insights.png)
